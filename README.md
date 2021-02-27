@@ -1,2 +1,2 @@
 # calorie-counter
-A simple calorie counter that uses the USDA's FoodData API to pull calorie info and put it into a GUI, Tracks what foods you ate.
+A simple calorie counter that uses Tkinter. It is embedded with https://fdc.nal.usda.gov/ So there is a easy lookup to see your calories, and it's is a like that because I don't want to mess around with Api's.
